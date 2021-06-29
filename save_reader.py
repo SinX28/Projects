@@ -1,11 +1,8 @@
 import pickle
 
-print("   Lecture de la Save...")
+print("   Lecture de la Save...\n")
 
 data = pickle.load( open( "scrap_conf.p", "rb" ),encoding='bytes' )
 
-print("query: "+data['query'])
-print("chemin: "+data['result_path'])
-print("navigateur: "+data['browser'])
-
+print("query: "+data['query']+"\nchemin: "+data['result_path']+"\nnavigateur: "+data['browser']+"\n")
 
