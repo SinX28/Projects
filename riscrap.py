@@ -1,5 +1,6 @@
 from selenium import webdriver #importation lib selenium
 import time
+import sys
 import os
 from selenium.common.exceptions import NoSuchElementException     
 import shutil
@@ -70,10 +71,17 @@ def scrap(lst,driver='./driver/chromedriver'): #prend en param l'array d'URL
 
 #Début
 
-fconf=input("Fichier conf>>>")
-data = pickle.load( open( fconf, "rb" ),encoding='bytes' )
-url = search(data['query'],data['browser'],data['driver'])
-scrap(url)
-move()
+if len(sys.argv)<2:
+
+    print("ERROR: python3 riscrap.py <file_config.p>")
+
+else:
+
+    fconf=str(sys.argv[1])
+    data = pickle.load( open( fconf, "rb" ),encoding='bytes' )
+    url = search(data['query'],data['browser'],data['driver'])
+    scrap(url)
+    move(data['result_path'])
+
 
 
