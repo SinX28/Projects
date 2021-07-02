@@ -13,3 +13,5 @@ Mode d'utilisation:
 3. Attendre que le programme termine son execution
 4. Chercher les fichiers générés dans le dossier des téléchargement
 
+*Remarque: si vous lancez une recherche sur retry.co, le resultat se trouvera dans le répertoire result
+
