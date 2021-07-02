@@ -5,7 +5,7 @@ import os
 from selenium.common.exceptions import NoSuchElementException     
 import shutil
 import pickle
-
+import json
 def move(res):
 
     os.chdir(res)
@@ -49,26 +49,36 @@ def search(query,browser,driver='./driver/chromedriver'): #Retourne les URL à a
     
     return lst #retourne la lisre des URLs
    
-def scrap(lst,driver='./driver/chromedriver'): #prend en param l'array d'URL
+def scrap(lst,driver='./driver/chromedriver'): #prend en param l'array d'URL ajouter mode en fonction du site
 
     driver = webdriver.Chrome(executable_path=driver)
 
     for el in lst: #Pour chaque url on fait ce qui xsuit:
-        print(el)
+        print("Going on "+el)
         driver.get(el)
         time.sleep(2)
 
         try:
-            print("Pass "+driver.find_element_by_xpath("//button[@mode='primary']").text)
-            driver.find_element_by_xpath("//button[@mode='primary']").click()
-        
+            #if mode=="pastebin": #Soluce temp, ca dependra du nombre de site a trouver (si + de 4 refonte intégrale du code)
+
+                print("[Pastebin] Pass "+driver.find_element_by_xpath("//button[@mode='primary']").text)
+                driver.find_element_by_xpath("//button[@mode='primary']").click()
+            #else:#autre site comme rentry.co
+
+               # print("[Rentry] Pass "+driver.find_element_by_id("dropdownButton").text())
+
         except NoSuchElementException:
             pass
 
-        dl = driver.find_element_by_xpath("//a[contains(@href,'/dl/')]") #
-        print("Clicking on " + dl.text)
-        dl.click()
+        try:
 
+            dl = driver.find_element_by_xpath("//a[contains(@href,'/dl/')]") #
+            print("Clicking on " + dl.text)
+            dl.click()
+        except NoSuchElementException:
+            pass
+
+    print("Scraping done")
 #Début
 
 if len(sys.argv)<2:
@@ -78,10 +88,23 @@ if len(sys.argv)<2:
 else:
 
     fconf=str(sys.argv[1])
-    data = pickle.load( open( fconf, "rb" ),encoding='bytes' )
+
+    if fconf.find(".json")>0: #car en cas de non match la valeure renvoyé est -1
+
+        print("Json File Detected")
+
+        data = json.load( open( fconf, "rb" ))
+
+    else:
+
+        print("Pickle File Detected")
+
+        data = pickle.load( open( fconf, "rb" ),encoding='bytes' )
+
+
     url = search(data['query'],data['browser'],data['driver'])
     scrap(url)
-    move(data['result_path'])
+    #move(data['result_path'])
 
 
 
