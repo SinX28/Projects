@@ -1,5 +1,5 @@
 {
-    "query": "'password dump' +@gmail.com site:pastebin.com",
+    "query": "'password dump' +@gmail.com site:rentry.co",
     "browser": "https://duckduckgo.com/",
     "driver": "./driver/chromedriver",
     "result_path": "~/Desktop/",

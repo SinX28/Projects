@@ -6,6 +6,8 @@ from selenium.common.exceptions import NoSuchElementException
 import shutil
 import pickle
 import json
+import requests
+
 def move(res):
 
     os.chdir(res)
@@ -47,36 +49,42 @@ def search(query,browser,driver='./driver/chromedriver'): #Retourne les URL à a
    
     print("Searching done !")
     
-    return lst #retourne la lisre des URLs
+    return lst #retourne la liste des URLs
    
 def scrap(lst,driver='./driver/chromedriver'): #prend en param l'array d'URL ajouter mode en fonction du site
 
     driver = webdriver.Chrome(executable_path=driver)
 
     for el in lst: #Pour chaque url on fait ce qui xsuit:
+        
         print("Going on "+el)
-        driver.get(el)
-        time.sleep(2)
+        
+        
 
-        try:
-            #if mode=="pastebin": #Soluce temp, ca dependra du nombre de site a trouver (si + de 4 refonte intégrale du code)
-
+        try: #except+ si on est sur pastbin
+            if el.find("pastebin")>0: #Soluce temp, ca dependra du nombre de site a trouver (si + de 4 refonte intégrale du code)
+                
+                driver.get(el)
+                time.sleep(2)
                 print("[Pastebin] Pass "+driver.find_element_by_xpath("//button[@mode='primary']").text)
                 driver.find_element_by_xpath("//button[@mode='primary']").click()
-            #else:#autre site comme rentry.co
 
-               # print("[Rentry] Pass "+driver.find_element_by_id("dropdownButton").text())
+
+                dl = driver.find_element_by_xpath("//a[contains(@href,'/dl/')]") #
+                print("Clicking on " + dl.text)
+                dl.click()
+        
+
+            else:           #autre sites comme rentry.co (elif a chaque nous site implémenté)
+
+                prefile=requests.get(el+"/Raw")
+                print(prefile)
+                with open("result/"+el[-4:]+".txt", "w") as out_f:
+                    out_f.write(prefile.text)
 
         except NoSuchElementException:
             pass
 
-        try:
-
-            dl = driver.find_element_by_xpath("//a[contains(@href,'/dl/')]") #
-            print("Clicking on " + dl.text)
-            dl.click()
-        except NoSuchElementException:
-            pass
 
     print("Scraping done")
 #Début
