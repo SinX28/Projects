@@ -25,7 +25,7 @@ def scrap(lst,driver='./driver/chromedriver'): #prend en param l'array d'URL ajo
                 driver.find_element_by_xpath("//button[@mode='primary']").click()
                     
             except NoSuchElementException:
-                    
+                
                 logging.warning("[WARNING] Unable to find AGREE button")#WARNING
 
             dl = driver.find_element_by_xpath("//a[contains(@href,'/dl/')]") #

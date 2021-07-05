@@ -1,7 +1,19 @@
 from selenium import webdriver #importation lib selenium
 import logging
+import shutil
+import os
 
 logging.basicConfig(format='%(asctime)s %(message)s')
+
+def move(a,b): #Used to change path of file result
+
+    files = os.listdir(a)
+
+    for f in files:
+
+        print(a+f)
+        shutil.move(a+f, b)#mettre exception
+
 
 def search(query,browser,driver='./driver/chromedriver'): #Retourne les URL à an alyser
 

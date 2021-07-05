@@ -2,6 +2,6 @@
     "query": "'password dump' +@gmail.com site:pastebin.com",
     "browser": "https://duckduckgo.com/",
     "driver": "./driver/chromedriver",
-    "result_path": "~/Desktop/",
+    "result_path": "/Users/maximep/Desktop/Perso/Prog/lib/result",
     "name": "config_1"
 }

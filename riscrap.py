@@ -29,11 +29,11 @@ else:
 
     logging.info("[INFO] Json File Detected") #INFO
 
-    data = json.load( open( sys.argv[1], "rb" ))
+    data = json.load( open( sys.argv[1], "rb" ))#Add try catch
 
     url = src.search(data['query'],data['browser'],data['driver'])
     scp.scrap(url,data['driver'])
-    #move(data['result_path'])
+    src.move("/Users/maximep/Downloads/",data['result_path'])
 
 
 
