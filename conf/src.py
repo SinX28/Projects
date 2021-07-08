@@ -1,3 +1,7 @@
+#Ajouter des catch
+#Plusieurs pages web /search
+#Parsing
+
 from selenium import webdriver #importation lib selenium
 import logging
 import shutil
@@ -15,7 +19,15 @@ def move(a,b): #Used to change path of file result
         shutil.move(a+f, b)#mettre exception
 
 
-def search(query,browser,driver='./driver/chromedriver'): #Retourne les URL à an alyser
+def search(query,browser,driver='./driver/chromedriver',debmod=False): #Retourne les URL à an alyser
+
+    if not debmod:
+        logging.basicConfig(format='%(asctime)s %(message)s')
+    else:
+        print("--debug_src--")
+        logging.basicConfig(format='%(asctime)s %(message)s',level=logging.DEBUG)
+
+
 
     driver = webdriver.Chrome(executable_path=driver) #bien ajouter le ./ car c'est un executable
     driver.get(browser) #Récupération du site

@@ -4,10 +4,16 @@ import requests
 import time
 import logging
 
-logging.basicConfig(format='%(asctime)s %(message)s')
 
 
-def scrap(lst,driver='./driver/chromedriver'): #prend en param l'array d'URL ajouter mode en fonction du site
+
+def scrap(lst,driver='./driver/chromedriver',debmod=False): #prend en param l'array d'URL ajouter mode en fonction du site
+
+    if not debmod:
+        logging.basicConfig(format='%(asctime)s %(message)s')
+    else:
+        logging.basicConfig(format='%(asctime)s %(message)s',level=logging.DEBUG)
+        print("--debug_scp--")
 
     driver = webdriver.Chrome(executable_path=driver)
 

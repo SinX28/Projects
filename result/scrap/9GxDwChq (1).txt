@@ -1,0 +1,12 @@
+--PASSWORD DUMP--
+
+samward@gmail.com|d
+samward@gmail.com|i
+samward@gmail.com|c
+samward@gmail.com|k
+samward@gmail.com|h
+samward@gmail.com|e
+samward@gmail.com|a
+samward@gmail.com|d
+
+--END--
