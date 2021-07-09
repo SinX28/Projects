@@ -3,5 +3,6 @@
     "browser": "https://duckduckgo.com/",
     "driver": "./driver/chromedriver",
     "result_path": "/Users/maximep/Desktop/Perso/Prog/lib/result",
-    "name": "config_1"
+    "name": "config_1",
+    "pages": 3
 }

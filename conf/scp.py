@@ -4,9 +4,6 @@ import requests
 import time
 import logging
 
-
-
-
 def scrap(lst,driver='./driver/chromedriver',debmod=False): #prend en param l'array d'URL ajouter mode en fonction du site
 
     if not debmod:
@@ -18,25 +15,26 @@ def scrap(lst,driver='./driver/chromedriver',debmod=False): #prend en param l'ar
     driver = webdriver.Chrome(executable_path=driver)
 
     for el in lst: #Pour chaque url on fait ce qui xsuit:
-        
         logging.info("[INFO] Going on {}".format(el)) #INFO
         
         if el.find("pastebin")>0: #Soluce temp, ca dependra du nombre de site a trouver (si + de 4 refonte intégrale du code)
 
-            try:
-
+            try: #Gestion du Agree du RGPD
                 driver.get(el)
                 time.sleep(2)
                 logging.info("[INFO] Pass pastebin's {} button".format(driver.find_element_by_xpath("//button[@mode='primary']").text))#INFO
                 driver.find_element_by_xpath("//button[@mode='primary']").click()
                     
             except NoSuchElementException:
-                
                 logging.warning("[WARNING] Unable to find AGREE button")#WARNING
 
-            dl = driver.find_element_by_xpath("//a[contains(@href,'/dl/')]") #
-            logging.info("[INFO] Clicking on {}".format(dl.text))#INFO
-            dl.click()
+            try: #Gestion du bouton télécharger
+                dl = driver.find_element_by_xpath("//a[contains(@href,'/dl/')]")
+                logging.info("[INFO] Clicking on {}".format(dl.text))#INFO
+                dl.click()
+
+            except NoSuchElementException:
+                logging.warning("[WARNING] Unable to find download button this page has maybe been deleted")
         
         else:           #autre sites comme rentry.co (elif a chaque nous site implémenté)
 
