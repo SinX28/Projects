@@ -25,7 +25,7 @@ if arg.debug:
 
     print("[Debug mode enabled]")
 
-    logging.basicConfig(format='%(asctime)s %(message)s',level=logging.DEBUG)
+    logging.basicConfig(format='%(asctime)s %(message)s',level=logging.INFO)
 
 else:
 

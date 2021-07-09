@@ -12,7 +12,7 @@ def scrap(lst,driver='./driver/chromedriver',debmod=False): #prend en param l'ar
     if not debmod:
         logging.basicConfig(format='%(asctime)s %(message)s')
     else:
-        logging.basicConfig(format='%(asctime)s %(message)s',level=logging.DEBUG)
+        logging.basicConfig(format='%(asctime)s %(message)s',level=logging.INFO)
         print("--debug_scp--")
 
     driver = webdriver.Chrome(executable_path=driver)

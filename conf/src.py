@@ -7,7 +7,7 @@ import logging
 import shutil
 import os
 
-logging.basicConfig(format='%(asctime)s %(message)s')
+
 
 def move(a,b): #Used to change path of file result
 
@@ -25,9 +25,7 @@ def search(query,browser,driver='./driver/chromedriver',debmod=False): #Retourne
         logging.basicConfig(format='%(asctime)s %(message)s')
     else:
         print("--debug_src--")
-        logging.basicConfig(format='%(asctime)s %(message)s',level=logging.DEBUG)
-
-
+        logging.basicConfig(format='%(asctime)s %(message)s',level=logging.INFO)
 
     driver = webdriver.Chrome(executable_path=driver) #bien ajouter le ./ car c'est un executable
     driver.get(browser) #Récupération du site
