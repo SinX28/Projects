@@ -1,0 +1,98 @@
+  _____  _       _ _        _   _____                       
+ |  __ \(_)     (_) |      | | |  __ \                      
+ | |  | |_  __ _ _| |_ __ _| | | |  | | ___  ___ __ _ _   _ 
+ | |  | | |/ _` | | __/ _` | | | |  | |/ _ \/ __/ _` | | | |
+ | |__| | | (_| | | || (_| | | | |__| |  __/ (_| (_| | |_| |
+ |_____/|_|\__, |_|\__\__,_|_| |_____/ \___|\___\__,_|\__, |
+            __/ |          ______                      __/ |
+           |___/          |______|                    |___/ 
+                                                                     
+                === SQL Dump ===
+
+More lazy exploitations.
+Ah.. whatever.
+
+       == General Info == 
+
+Target: http://www.apmonline.org/
+Version: 5.5.42
+DB name = apm
+
+       == Tables ==
+
+documents,events,hitcounter,links,members,news,pages,specialbuttons,users,wordlist
+
+Tables users and members are looking good.
+Let's try users table first.
+
+       == Columns in table users == 
+
+ID,username,password,level
+
+Sounds great, lets extract data.
+
+Data in column username:
+fren@test.co.uk,sabine@apmonline.co.uk,fred@bloggs.com,bill@talktalk.com,harry@btconnect.com,jack@btinternet.com,lesley@tiscalli.co.uk
+
+Data in column password:
+fdgherhedrtywrtywer45y,jhasduogih;jkhgauhsdgha;galdg,65e546h45jh6erth56,iedfu890sdfniofg90ion4l5,89345jhner80fvujs[08herf,cwoh4rtowejh[0fvjhawpiejfgws,rgsdjasd08gajis;dklfj6787563tg
+
+I don't think that these passwords are hashed. 
+
+       == Columns in table members ==
+
+ID,onoff,firstname,lastname,login,passwd,reminder,level
+
+login and password are interesting.
+
+Data in column login:
+ian,anna.kurowska@whittington.nhs.uk,till.kroeber@farleighhospice.org,luluk@globalnet.co.uk,sklinger@peacehospicecare.org.uk,angela.nelmes@nhs.net,suzanne.kite@leedsth.nhs.uk,mark.kitching@doctors.org.uk,jennalight51@btinternet.com,helen.kirk@salisbury.nhs.uk,amy2kingston@yahoo.co.uk,niking@doctors.net.uk,sjk21@doctors.net.uk,nicky.king@ellenorlions.org,catriona.k@doctors.org.uk,stephkillick@hotmail.com,marykiely@doctors.org.uk,khodrie@talk21.com,drbenkennedy@gmail.com,clare.kendall@nbt.nhs.uk,rachelkemprvk@hotmail.com,sarahkelt@doctors.org.uk,keenleysideg@yahoo.com,j.keen@highlandhospice.org.uk,vaughan.keeley@derbyhospitals.nhs.uk,katrineowen@doctors.org.uk,aqdaskazi@yahoo.com,kiran.kaur@belfasttrust.hscni.net,kamdarroma@hotmail.com,mariejoseph@straphaels.org.uk,alicejordan74@hotmail.co.uk,caroline.jones@ucl.ac.uk,sjraven56@hotmail.com,robjones@shalomstdavids.org,emma.jones@pth.org.uk,bethansjones@f2s.com,drjolliffe@doctors.org.uk,judithandchris@doctors.org.uk,sally.johnson@wvt.nhs.uk,miriam.johnson@hyms.ac.
+
+Damn.. 
+
+Data in column passwd:
+1daa0d0899c0709f81eaf8ff0d84ed49,f7b6f65e28b9150109a5ee54a8407394,98acaa4f3c85f0362d2e4045ea0232c1,da17c772ce33e4a8d259869b4ebb4ccd,0c08611dec143aae4510fa5e357b8618,4fa537ceb3e08daa99cbb7f0180d4a19,c7205bbd4f5c809553d9d25b8925d129,5fb6606acc89b916fa09cb2bddb47246,cda956cd87420b84df9b4f624dd37405,35a3a92c472f6559441d35ea74baeb8c,ec1fa0b7c4c001d4dc5f83811a278fc3,1cb8df837bc18e0be9119b11279c1f44,1a9e9cfc29e40d12fa00ba088a39152d,340b8755172045c41986876ab8a98be3,6306a9b2b4a5eb7590e36e6f656565d0,f8c44495a2e1688ea9aeb80b8ee31161,d157c3aa5016c7a3a9cad34e07461f79,158591c15704cc366b1831d9264b3ae0,1dfd6168c13af2dfdeab811755ec93c3,5480528404e692f0ef9aebc8cb44b022,0e0eb8cc98d0e6ea3669eaf4c2814316,b88a73edc22156224a1d498503936b44,552b7500ea226058647429c9eb6f8288,49c23dc9804729abf5755e57b4f3d7c8,0352a2165738bd1231769978dbf09ac8,8858d35070048ccbe4d63ebb78a54a62,2f493d855d75ba4ad1937c7dd3cd68f8,1a8e4a6f82143c272c3d620f0fca5e45,ed22876f7afac96896fcce798efa971d,43d36c4b90fe17b613f44da01fc6da40,24402eda8909ab8993f294cee4053afa,c
+
+These passwords are definitely hashed. These are all MD5's.
+
+Well, now we have all user accounts in hand, but where is the admin users?
+
+Found this login page:
+http://www.apmonline.org/page.php?pageid=185
+
+Cracked all md5 hashes as well for you:
+
+1daa0d0899c0709f81eaf8ff0d84ed49:pa28161
+f7b6f65e28b9150109a5ee54a8407394:Berlinger11!
+98acaa4f3c85f0362d2e4045ea0232c1:stagmace8
+da17c772ce33e4a8d259869b4ebb4ccd:hopehips9
+0c08611dec143aae4510fa5e357b8618:swobdele7
+4fa537ceb3e08daa99cbb7f0180d4a19:wishhost2
+c7205bbd4f5c809553d9d25b8925d129:trayhome5
+5fb6606acc89b916fa09cb2bddb47246:Hypnosis1
+cda956cd87420b84df9b4f624dd37405:zoospurs4
+35a3a92c472f6559441d35ea74baeb8c:faysdamn5
+ec1fa0b7c4c001d4dc5f83811a278fc3:Windsock001
+1cb8df837bc18e0be9119b11279c1f44:examovum4
+1a9e9cfc29e40d12fa00ba088a39152d:Dragon11
+340b8755172045c41986876ab8a98be3:tootritz6
+6306a9b2b4a5eb7590e36e6f656565d0:sansbony9
+f8c44495a2e1688ea9aeb80b8ee31161:Aintree1
+d157c3aa5016c7a3a9cad34e07461f79:Gerard75
+158591c15704cc366b1831d9264b3ae0:Voleparlour183
+1dfd6168c13af2dfdeab811755ec93c3:yawnhaze9
+5480528404e692f0ef9aebc8cb44b022:rungboth8
+0e0eb8cc98d0e6ea3669eaf4c2814316:Rachel17
+b88a73edc22156224a1d498503936b44:hacknear7
+552b7500ea226058647429c9eb6f8288:veerdram5
+49c23dc9804729abf5755e57b4f3d7c8:roarouts5
+0352a2165738bd1231769978dbf09ac8:wrapwaif8
+8858d35070048ccbe4d63ebb78a54a62:Kate3105
+2f493d855d75ba4ad1937c7dd3cd68f8:baudrash4
+1a8e4a6f82143c272c3d620f0fca5e45:stowpals5
+ed22876f7afac96896fcce798efa971d:weptdocs7
+43d36c4b90fe17b613f44da01fc6da40:ayesbeep4
+24402eda8909ab8993f294cee4053afa:notetick9
+
+
+Have fun.

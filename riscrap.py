@@ -37,3 +37,7 @@ else:
     url = src.search(data['query'],data['browser'],data['pages'],data['driver'],arg.debug)
     scp.scrap(url,data['driver'],arg.debug)
     src.move("/Users/maximep/Downloads/",data['result_path'])
+
+#Fin
+
+logging.info("[INFO] End")

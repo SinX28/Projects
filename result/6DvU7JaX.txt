@@ -1,0 +1,3420 @@
+
+Pastebin dump
+
+    Home
+    Dumps
+    Daily leaks
+    Api
+
+    User page
+    Logout
+    About
+
+qZf9w2nJ
+2016-02-26 05:54:15
+
+==================================================
+
+
+
+URL               : http://192.168.0.1/
+
+
+
+Web Browser       : Chrome
+
+
+
+User Name         : admin
+
+
+
+Password          : admin
+
+
+
+Password Strength : Very Weak
+
+
+
+User Name Field   : 
+
+
+
+Password Field    : 
+
+
+
+==================================================
+
+
+
+
+
+
+
+==================================================
+
+
+
+URL               : http://warmerise.com/login
+
+
+
+Web Browser       : Chrome
+
+
+
+User Name         : maximogelsiciucio@yahoo.com.ar
+
+
+
+Password          : maxino1
+
+
+
+Password Strength : Strong
+
+
+
+User Name Field   : cPJtccEp3f
+
+
+
+Password Field    : password
+
+
+
+==================================================
+
+
+
+
+
+
+
+==================================================
+
+
+
+URL               : http://warmerise.com/login
+
+
+
+Web Browser       : Internet Explorer 7.0 - 9.0
+
+
+
+User Name         : maximogelsiciucio@yahoo.com.ar
+
+
+
+Password          : 
+
+
+
+Password Strength : 
+
+
+
+User Name Field   : 
+
+
+
+Password Field    : 
+
+
+
+==================================================
+
+
+
+
+
+
+
+==================================================
+
+
+
+URL               : http://www.all-gamez.com/registro
+
+
+
+Web Browser       : Chrome
+
+
+
+User Name         : TheMaxo01
+
+
+
+Password          : maxino1
+
+
+
+Password Strength : Strong
+
+
+
+User Name Field   : username
+
+
+
+Password Field    : password
+
+
+
+==================================================
+
+
+
+
+
+
+
+==================================================
+
+
+
+URL               : http://www.kogama.com/register/
+
+
+
+Web Browser       : Chrome
+
+
+
+User Name         : maximo01
+
+
+
+Password          : maxino1
+
+
+
+Password Strength : Strong
+
+
+
+User Name Field   : username
+
+
+
+Password Field    : password1
+
+
+
+==================================================
+
+
+
+
+
+
+
+==================================================
+
+
+
+URL               : https://accountrecovery.mercadolibre.com.ar/mla/accountrecovery/passwordRecovery/recovery
+
+
+
+Web Browser       : Chrome
+
+
+
+User Name         : 
+
+
+
+Password          : peladita
+
+
+
+Password Strength : Strong
+
+
+
+User Name Field   : 
+
+
+
+Password Field    : 
+
+
+
+==================================================
+
+
+
+
+
+
+
+==================================================
+
+
+
+URL               : https://es-la.facebook.com/
+
+
+
+Web Browser       : Chrome
+
+
+
+User Name         : maximogelsiciucio@yahoo.com.ar
+
+
+
+Password          : maxino1
+
+
+
+Password Strength : Strong
+
+
+
+User Name Field   : reg_email_confirmation__
+
+
+
+Password Field    : reg_passwd__
+
+
+
+==================================================
+
+
+
+
+
+
+
+==================================================
+
+
+
+URL               : https://login.live.com/login.srf
+
+
+
+Web Browser       : Chrome
+
+
+
+User Name         : carinaciucio@hotmail.com
+
+
+
+Password          : LaTotoia
+
+
+
+Password Strength : Strong
+
+
+
+User Name Field   : loginfmt
+
+
+
+Password Field    : passwd
+
+
+
+==================================================
+
+
+
+
+
+
+
+==================================================
+
+
+
+URL               : https://playfulbet.com/users
+
+
+
+Web Browser       : Chrome
+
+
+
+User Name         : maximogelsiciucio@yahoo.com.ar
+
+
+
+Password          : maxino1
+
+
+
+Password Strength : Strong
+
+
+
+User Name Field   : user[email_confirmation]
+
+
+
+Password Field    : 
+
+
+
+==================================================
+
+
+
+
+
+
+
+==================================================
+
+
+
+URL               : https://www.facebook.com/
+
+
+
+Web Browser       : Chrome
+
+
+
+User Name         : maximogelsiciucio@yahoo.com.ar
+
+
+
+Password          : maxino1
+
+
+
+Password Strength : Strong
+
+
+
+User Name Field   : email
+
+
+
+Password Field    : pass
+
+
+
+==================================================
+
+==================================================
+
+
+
+URL               : https://es-la.facebook.com/
+
+
+
+Web Browser       : Chrome
+
+
+
+User Name         : deathrap02@hotmail.com
+
+
+
+Password          : maxterlamagia02
+
+
+
+Password Strength : Very Strong
+
+
+
+User Name Field   : email
+
+
+
+Password Field    : pass
+
+
+
+==================================================
+
+
+
+
+
+
+
+==================================================
+
+
+
+URL               : https://m.facebook.com/login.php
+
+
+
+Web Browser       : Chrome
+
+
+
+User Name         : elmaravilloso99@hotmail.com
+
+
+
+Password          : maxterlamagia02
+
+
+
+Password Strength : Very Strong
+
+
+
+User Name Field   : email
+
+
+
+Password Field    : pass
+
+
+
+==================================================
+
+
+
+
+
+
+
+==================================================
+
+
+
+URL               : https://www.facebook.com/
+
+
+
+Web Browser       : Chrome
+
+
+
+User Name         : elmaravilloso99@hotmail.com
+
+
+
+Password          : maxterlamagia02
+
+
+
+Password Strength : Very Strong
+
+
+
+User Name Field   : email
+
+
+
+Password Field    : pass
+
+
+
+==================================================
+
+
+
+
+
+
+
+==================================================
+
+
+
+URL               : https://www.facebook.com/
+
+
+
+Web Browser       : Chrome
+
+
+
+User Name         : deathrap02@hotmail.com
+
+
+
+Password          : maxterlamagia02
+
+
+
+Password Strength : Very Strong
+
+
+
+User Name Field   : email
+
+
+
+Password Field    : pass
+
+
+
+==================================================
+
+
+
+
+
+
+
+==================================================
+
+
+
+URL               : https://www.facebook.com/login.php
+
+
+
+Web Browser       : Chrome
+
+
+
+User Name         : deathrap02@hotmail.com
+
+
+
+Password          : maxterlamagia02
+
+
+
+Password Strength : Very Strong
+
+
+
+User Name Field   : email
+
+
+
+Password Field    : pass
+
+
+
+==================================================
+
+
+
+
+
+
+
+==================================================
+
+
+
+URL               : https://www.lumosity.com/login
+
+
+
+Web Browser       : Chrome
+
+
+
+User Name         : elmaravilloso99@hotmail.com
+
+
+
+Password          : maxterlamagia02
+
+
+
+Password Strength : Very Strong
+
+
+
+User Name Field   : sentinel/user[email_address]
+
+
+
+Password Field    : sentinel/user[password]
+
+
+
+==================================================
+
+
+
+
+
+
+
+==================================================
+
+
+
+URL               : https://www.wowapp.com/register/baby_joss
+
+
+
+Web Browser       : Chrome
+
+
+
+User Name         : deathrap02
+
+
+
+Password          : maxterlamagia02
+
+
+
+Password Strength : Very Strong
+
+
+
+User Name Field   : username
+
+
+
+Password Field    : 
+
+
+
+==================================================
+
+
+
+==================================================
+
+
+
+URL               : http://www.axeso5.com/login
+
+
+
+Web Browser       : Chrome
+
+
+
+User Name         : StukGamer432
+
+
+
+Password          : nicomanya
+
+
+
+Password Strength : Strong
+
+
+
+User Name Field   : txtUserId
+
+
+
+Password Field    : txtPassword
+
+
+
+==================================================
+
+
+
+
+
+
+
+==================================================
+
+
+
+URL               : https://login.live.com/login.srf
+
+
+
+Web Browser       : Chrome
+
+
+
+User Name         : jake-bolso@hotmail.com
+
+
+
+Password          : nacional-1
+
+
+
+Password Strength : Strong
+
+
+
+User Name Field   : loginfmt
+
+
+
+Password Field    : passwd
+
+
+
+==================================================
+
+
+
+
+
+
+
+==================================================
+
+
+
+URL               : https://www.facebook.com/login/
+
+
+
+Web Browser       : Internet Explorer 7.0 - 9.0
+
+
+
+User Name         : nicomuxxu@hotmail.com
+
+
+
+Password          : nicostuk
+
+
+
+Password Strength : Medium
+
+
+
+User Name Field   : 
+
+
+
+Password Field    : 
+
+
+
+==================================================
+
+
+
+==================================================
+
+
+
+URL               : https://accounts.google.com/ServiceLogin
+
+
+
+Web Browser       : Chrome
+
+
+
+User Name         : coisasdadaniepsicologi@hotmail.com
+
+
+
+Password          : solonteamo
+
+
+
+Password Strength : Strong
+
+
+
+User Name Field   : Email
+
+
+
+Password Field    : Passwd
+
+
+
+==================================================
+
+
+
+==================================================
+
+
+
+URL               : http://addmefast.com/en/login
+
+
+
+Web Browser       : Chrome
+
+
+
+User Name         : juanisimo8936@gmail.com
+
+
+
+Password          : 94908212
+
+
+
+Password Strength : Medium
+
+
+
+User Name Field   : email
+
+
+
+Password Field    : password
+
+
+
+==================================================
+
+
+
+
+
+
+
+==================================================
+
+
+
+URL               : http://fullcollege.cl/home/
+
+
+
+Web Browser       : Chrome
+
+
+
+User Name         : 8382306
+
+
+
+Password          : 2306
+
+
+
+Password Strength : Weak
+
+
+
+User Name Field   : login
+
+
+
+Password Field    : clave
+
+
+
+==================================================
+
+
+
+
+
+
+
+==================================================
+
+
+
+URL               : http://www.corazondemelon.es/
+
+
+
+Web Browser       : Chrome
+
+
+
+User Name         : juanisimo89@hotmail.com
+
+
+
+Password          : selenalovato
+
+
+
+Password Strength : Strong
+
+
+
+User Name Field   : email
+
+
+
+Password Field    : pass
+
+
+
+==================================================
+
+
+
+
+
+
+
+==================================================
+
+
+
+URL               : http://www.truequers.com/cl/login
+
+
+
+Web Browser       : Chrome
+
+
+
+User Name         : JuanYañez
+
+
+
+Password          : panconqueso123
+
+
+
+Password Strength : Very Strong
+
+
+
+User Name Field   : LoginForm[username]
+
+
+
+Password Field    : LoginForm[password]
+
+
+
+==================================================
+
+
+
+
+
+
+
+==================================================
+
+
+
+URL               : https://accounts.google.com/ServiceLogin
+
+
+
+Web Browser       : Chrome
+
+
+
+User Name         : francisca.brevisalan2011@gmail.com
+
+
+
+Password          : marypancha
+
+
+
+Password Strength : Strong
+
+
+
+User Name Field   : Email
+
+
+
+Password Field    : Passwd
+
+
+
+==================================================
+
+
+
+
+
+
+
+==================================================
+
+
+
+URL               : https://accounts.google.com/ServiceLoginAuth
+
+
+
+Web Browser       : Chrome
+
+
+
+User Name         : juanisimo8936@gmail.com
+
+
+
+Password          : 94908212
+
+
+
+Password Strength : Medium
+
+
+
+User Name Field   : Email
+
+
+
+Password Field    : Passwd
+
+
+
+==================================================
+
+
+
+
+
+
+
+==================================================
+
+
+
+URL               : https://api.twitter.com/oauth/authorize
+
+
+
+Web Browser       : Chrome
+
+
+
+User Name         : _SelenatorBoy
+
+
+
+Password          : 94908212
+
+
+
+Password Strength : Medium
+
+
+
+User Name Field   : session[username_or_email]
+
+
+
+Password Field    : session[password]
+
+
+
+==================================================
+
+
+
+
+
+
+
+==================================================
+
+
+
+URL               : https://ask.fm/login
+
+
+
+Web Browser       : Chrome
+
+
+
+User Name         : juanethoxdelboom
+
+
+
+Password          : 94908212
+
+
+
+Password Strength : Medium
+
+
+
+User Name Field   : login
+
+
+
+Password Field    : password
+
+
+
+==================================================
+
+
+
+
+
+
+
+==================================================
+
+
+
+URL               : https://compra.puntoticket.com/Login.aspx
+
+
+
+Web Browser       : Chrome
+
+
+
+User Name         : 19799012-0
+
+
+
+Password          : 94908212
+
+
+
+Password Strength : Medium
+
+
+
+User Name Field   : RUT
+
+
+
+Password Field    : Password
+
+
+
+==================================================
+
+
+
+
+
+
+
+==================================================
+
+
+
+URL               : https://fullcollege.net/consulta/
+
+
+
+Web Browser       : Chrome
+
+
+
+User Name         : 16457870
+
+
+
+Password          : 7870
+
+
+
+Password Strength : Very Weak
+
+
+
+User Name Field   : login
+
+
+
+Password Field    : clave
+
+
+
+==================================================
+
+
+
+
+
+
+
+==================================================
+
+
+
+URL               : https://instagram.com/accounts/login/
+
+
+
+Web Browser       : Chrome
+
+
+
+User Name         : _selenatorboy
+
+
+
+Password          : 84908212
+
+
+
+Password Strength : Weak
+
+
+
+User Name Field   : username
+
+
+
+Password Field    : password
+
+
+
+==================================================
+
+
+
+
+
+
+
+==================================================
+
+
+
+URL               : https://login.live.com/ppsecure/post.srf
+
+
+
+Web Browser       : Chrome
+
+
+
+User Name         : juanisimo89@hotmail.com
+
+
+
+Password          : Lasbananitas456
+
+
+
+Password Strength : Very Strong
+
+
+
+User Name Field   : loginfmt
+
+
+
+Password Field    : passwd
+
+
+
+==================================================
+
+
+
+
+
+
+
+==================================================
+
+
+
+URL               : https://play.spotify.com/
+
+
+
+Web Browser       : Chrome
+
+
+
+User Name         : juanlisto
+
+
+
+Password          : 94908212
+
+
+
+Password Strength : Medium
+
+
+
+User Name Field   : username
+
+
+
+Password Field    : password
+
+
+
+==================================================
+
+
+
+
+
+
+
+==================================================
+
+
+
+URL               : https://play.spotify.com/user/12127298960/playlist/5DpEsoQmuuvTf1JMuoeJtA
+
+
+
+Web Browser       : Chrome
+
+
+
+User Name         : juanlisto
+
+
+
+Password          : 94908212
+
+
+
+Password Strength : Medium
+
+
+
+User Name Field   : username
+
+
+
+Password Field    : password
+
+
+
+==================================================
+
+
+
+
+
+
+
+==================================================
+
+
+
+URL               : https://signup.las.leagueoflegends.com/es/signup/index/es
+
+
+
+Web Browser       : Chrome
+
+
+
+User Name         : juanismo89@hotmail.com
+
+
+
+Password          : panconqueso123
+
+
+
+Password Strength : Very Strong
+
+
+
+User Name Field   : signup[email]
+
+
+
+Password Field    : signup[password]
+
+
+
+==================================================
+
+
+
+
+
+
+
+==================================================
+
+
+
+URL               : https://sucursalvirtual.clarochile.cl/sucursal/login/firstLogin
+
+
+
+Web Browser       : Chrome
+
+
+
+User Name         : 
+
+
+
+Password          : Juan123.
+
+
+
+Password Strength : Strong
+
+
+
+User Name Field   : 
+
+
+
+Password Field    : 
+
+
+
+==================================================
+
+
+
+
+
+
+
+==================================================
+
+
+
+URL               : https://twitter.com/twitter_es
+
+
+
+Web Browser       : Chrome
+
+
+
+User Name         : _SelenatorBoy
+
+
+
+Password          : 94908212
+
+
+
+Password Strength : Medium
+
+
+
+User Name Field   : session[username_or_email]
+
+
+
+Password Field    : session[password]
+
+
+
+==================================================
+
+
+
+
+
+
+
+==================================================
+
+
+
+URL               : https://www.dropbox.com/login
+
+
+
+Web Browser       : Chrome
+
+
+
+User Name         : juanisimo8936@gmail.com
+
+
+
+Password          : 94908212
+
+
+
+Password Strength : Medium
+
+
+
+User Name Field   : login_email
+
+
+
+Password Field    : login_password
+
+
+
+==================================================
+
+
+
+
+
+
+
+==================================================
+
+
+
+URL               : https://www.icloud.com/
+
+
+
+Web Browser       : Chrome
+
+
+
+User Name         : juanisimo89@hotmail.com
+
+
+
+Password          : Alejandro123
+
+
+
+Password Strength : Very Strong
+
+
+
+User Name Field   : sc1924
+
+
+
+Password Field    : sc1933
+
+
+
+==================================================
+
+
+
+
+
+
+
+==================================================
+
+
+
+URL               : https://www.mercadolibre.com/jms/mlc/lgz/login/index
+
+
+
+Web Browser       : Chrome
+
+
+
+User Name         : YEZJUAN98
+
+
+
+Password          : 94908212
+
+
+
+Password Strength : Medium
+
+
+
+User Name Field   : user_id
+
+
+
+Password Field    : password
+
+
+
+==================================================
+
+
+
+
+
+
+
+==================================================
+
+
+
+URL               : https://www.netflix.com/Login
+
+
+
+Web Browser       : Chrome
+
+
+
+User Name         : revelacion@gmail.com
+
+
+
+Password          : Santiago01
+
+
+
+Password Strength : Very Strong
+
+
+
+User Name Field   : email
+
+
+
+Password Field    : password
+
+
+
+==================================================
+
+
+
+
+
+
+
+==================================================
+
+
+
+URL               : https://www.tumblr.com/
+
+
+
+Web Browser       : Chrome
+
+
+
+User Name         : juanisimo89@hotmail.com
+
+
+
+Password          : amoaselena123
+
+
+
+Password Strength : Strong
+
+
+
+User Name Field   : user[email]
+
+
+
+Password Field    : user[password]
+
+
+
+==================================================
+
+
+
+
+
+
+
+==================================================
+
+
+
+URL               : https://www.tumblr.com/register/follow/freedom-inyourdreams/2
+
+
+
+Web Browser       : Chrome
+
+
+
+User Name         : juanisimo89@hotmail.com
+
+
+
+Password          : amoaselena123
+
+
+
+Password Strength : Strong
+
+
+
+User Name Field   : user[email]
+
+
+
+Password Field    : user[password]
+
+
+
+==================================================
+
+
+
+==================================================
+
+
+
+URL               : http://areariservata.sanarti.it/
+
+
+
+Web Browser       : Chrome
+
+
+
+User Name         : RRDGPP67E05I480W-SA
+
+
+
+Password          : cdc0e117
+
+
+
+Password Strength : Strong
+
+
+
+User Name Field   : username
+
+
+
+Password Field    : password
+
+
+
+==================================================
+
+
+
+
+
+
+
+==================================================
+
+
+
+URL               : http://lp.starvegas.it/
+
+
+
+Web Browser       : Chrome
+
+
+
+User Name         : pane2010@hotmail.it
+
+
+
+Password          : papapione5
+
+
+
+Password Strength : Strong
+
+
+
+User Name Field   : email
+
+
+
+Password Field    : 
+
+
+
+==================================================
+
+
+
+
+
+
+
+==================================================
+
+
+
+URL               : http://reg.cliccalavoro.it/campagne/cobrand_registration_mobile.php
+
+
+
+Web Browser       : Chrome
+
+
+
+User Name         : 
+
+
+
+Password          : papapione
+
+
+
+Password Strength : Medium
+
+
+
+User Name Field   : mail_b
+
+
+
+Password Field    : password
+
+
+
+==================================================
+
+
+
+
+
+
+
+==================================================
+
+
+
+URL               : http://savona.bakecaincontrii.com/be/main.php
+
+
+
+Web Browser       : Chrome
+
+
+
+User Name         : pane2010@hotmail.it
+
+
+
+Password          : papapione
+
+
+
+Password Strength : Medium
+
+
+
+User Name Field   : email-accedi
+
+
+
+Password Field    : password-accedi
+
+
+
+==================================================
+
+
+
+
+
+
+
+==================================================
+
+
+
+URL               : http://truckersmp.com/
+
+
+
+Web Browser       : Internet Explorer 10.0
+
+
+
+User Name         : pane2010@hotmail.it
+
+
+
+Password          : papapione67
+
+
+
+Password Strength : Strong
+
+
+
+User Name Field   : 
+
+
+
+Password Field    : 
+
+
+
+==================================================
+
+
+
+
+
+
+
+==================================================
+
+
+
+URL               : http://www.acts.it/
+
+
+
+Web Browser       : Internet Explorer 10.0
+
+
+
+User Name         :  Ierardi Giusepppe
+
+
+
+Password          : papapione67
+
+
+
+Password Strength : Strong
+
+
+
+User Name Field   : 
+
+
+
+Password Field    : 
+
+
+
+==================================================
+
+
+
+
+
+
+
+==================================================
+
+
+
+URL               : http://www.acts.it/selezione/index.php/area-clienti/login/
+
+
+
+Web Browser       : Chrome
+
+
+
+User Name         :  Ierardi Giusepppe
+
+
+
+Password          : papanero190
+
+
+
+Password Strength : Strong
+
+
+
+User Name Field   : username
+
+
+
+Password Field    : pwd
+
+
+
+==================================================
+
+
+
+
+
+
+
+==================================================
+
+
+
+URL               : http://www.acts.it/selezione/index.php/area-clienti/mio-account/modifica-account/
+
+
+
+Web Browser       : Chrome
+
+
+
+User Name         : pane2010@hotmail.it
+
+
+
+Password          : papanero190
+
+
+
+Password Strength : Strong
+
+
+
+User Name Field   : user_email
+
+
+
+Password Field    : 
+
+
+
+==================================================
+
+
+
+
+
+
+
+==================================================
+
+
+
+URL               : http://www.gliaffari.it/GestioneAnnunciInserzionista/LoginGestioneAnnunciInserzionista.aspx
+
+
+
+Web Browser       : Chrome
+
+
+
+User Name         : pane2010@hotmail.it
+
+
+
+Password          : papapione
+
+
+
+Password Strength : Medium
+
+
+
+User Name Field   : ctl00$cphMainPage$txtEmail
+
+
+
+Password Field    : ctl00$cphMainPage$txtPassword
+
+
+
+==================================================
+
+
+
+
+
+
+
+==================================================
+
+
+
+URL               : http://www.jobgratis.com/login.php
+
+
+
+Web Browser       : Chrome
+
+
+
+User Name         : pane2010@hotmail.it
+
+
+
+Password          : gcce
+
+
+
+Password Strength : Weak
+
+
+
+User Name Field   : email
+
+
+
+Password Field    : psw
+
+
+
+==================================================
+
+
+
+
+
+
+
+==================================================
+
+
+
+URL               : http://www.risingcities.com/secure/externalHome
+
+
+
+Web Browser       : Chrome
+
+
+
+User Name         : bobo6719
+
+
+
+Password          : papapione
+
+
+
+Password Strength : Medium
+
+
+
+User Name Field   : username
+
+
+
+Password Field    : 
+
+
+
+==================================================
+
+
+
+
+
+
+
+==================================================
+
+
+
+URL               : http://www.thesettlersonline.it/it
+
+
+
+Web Browser       : Chrome
+
+
+
+User Name         : ierardi284@gmail.com
+
+
+
+Password          : papapione
+
+
+
+Password Strength : Medium
+
+
+
+User Name Field   : email
+
+
+
+Password Field    : password
+
+
+
+==================================================
+
+
+
+
+
+
+
+==================================================
+
+
+
+URL               : http://www.vodafone.it/area-utente/appmanager/fai-da-te/Common
+
+
+
+Web Browser       : Chrome
+
+
+
+User Name         : Pane2010@hotmail.it
+
+
+
+Password          : Papapione67
+
+
+
+Password Strength : Strong
+
+
+
+User Name Field   : e-mail
+
+
+
+Password Field    : 
+
+
+
+==================================================
+
+
+
+
+
+
+
+==================================================
+
+
+
+URL               : https://accounts.google.com/ServiceLogin
+
+
+
+Web Browser       : Chrome
+
+
+
+User Name         : ierardi284@gmail.com
+
+
+
+Password          : Papapione67
+
+
+
+Password Strength : Strong
+
+
+
+User Name Field   : Email
+
+
+
+Password Field    : Passwd
+
+
+
+==================================================
+
+
+
+
+
+
+
+==================================================
+
+
+
+URL               : https://accounts.google.com/VerifyOldPassword
+
+
+
+Web Browser       : Chrome
+
+
+
+User Name         : 
+
+
+
+Password          : papapione67
+
+
+
+Password Strength : Strong
+
+
+
+User Name Field   : 
+
+
+
+Password Field    : Passwd
+
+
+
+==================================================
+
+
+
+
+
+
+
+==================================================
+
+
+
+URL               : https://fyp.ebay.it/ChangePassword
+
+
+
+Web Browser       : Chrome
+
+
+
+User Name         : 
+
+
+
+Password          : papapione1967
+
+
+
+Password Strength : Strong
+
+
+
+User Name Field   : 
+
+
+
+Password Field    : 
+
+
+
+==================================================
+
+
+
+
+
+
+
+==================================================
+
+
+
+URL               : https://help.steampowered.com/
+
+
+
+Web Browser       : Internet Explorer 10.0
+
+
+
+User Name         : gyuse1
+
+
+
+Password          : papapione67
+
+
+
+Password Strength : Strong
+
+
+
+User Name Field   : 
+
+
+
+Password Field    : 
+
+
+
+==================================================
+
+
+
+
+
+
+
+==================================================
+
+
+
+URL               : https://it.pinterest.com/join/
+
+
+
+Web Browser       : Chrome
+
+
+
+User Name         : pane2010@hotmail.it
+
+
+
+Password          : papapione
+
+
+
+Password Strength : Medium
+
+
+
+User Name Field   : email
+
+
+
+Password Field    : password
+
+
+
+==================================================
+
+
+
+
+
+
+
+==================================================
+
+
+
+URL               : https://it.socialclub.rockstargames.com/profile/resetpassword
+
+
+
+Web Browser       : Chrome
+
+
+
+User Name         : 
+
+
+
+Password          : Papapione67
+
+
+
+Password Strength : Strong
+
+
+
+User Name Field   : 
+
+
+
+Password Field    : 
+
+
+
+==================================================
+
+
+
+
+
+
+
+==================================================
+
+
+
+URL               : https://login.live.com/
+
+
+
+Web Browser       : Internet Explorer 10.0
+
+
+
+User Name         : pane2010@hotmail.it
+
+
+
+Password          : papanero67
+
+
+
+Password Strength : Strong
+
+
+
+User Name Field   : 
+
+
+
+Password Field    : 
+
+
+
+==================================================
+
+
+
+
+
+
+
+==================================================
+
+
+
+URL               : https://login.live.com/login.srf
+
+
+
+Web Browser       : Chrome
+
+
+
+User Name         : pane2010@hotmail.it
+
+
+
+Password          : papanero67
+
+
+
+Password Strength : Strong
+
+
+
+User Name Field   : loginfmt
+
+
+
+Password Field    : passwd
+
+
+
+==================================================
+
+
+
+
+
+
+
+==================================================
+
+
+
+URL               : https://secure.indeed.com/account/login
+
+
+
+Web Browser       : Chrome
+
+
+
+User Name         : pane2010@hotmail.it
+
+
+
+Password          : papapione1967
+
+
+
+Password Strength : Strong
+
+
+
+User Name Field   : email
+
+
+
+Password Field    : password
+
+
+
+==================================================
+
+
+
+
+
+
+
+==================================================
+
+
+
+URL               : https://secure.indeed.com/account/resetpassword
+
+
+
+Web Browser       : Chrome
+
+
+
+User Name         : 
+
+
+
+Password          : papapione1967
+
+
+
+Password Strength : Strong
+
+
+
+User Name Field   : 
+
+
+
+Password Field    : 
+
+
+
+==================================================
+
+
+
+
+
+
+
+==================================================
+
+
+
+URL               : https://selfcare.tiscali.it/
+
+
+
+Web Browser       : Internet Explorer 10.0
+
+
+
+User Name         : giuseppeierardi1967@tiscali.it
+
+
+
+Password          : 342150
+
+
+
+Password Strength : Weak
+
+
+
+User Name Field   : 
+
+
+
+Password Field    : 
+
+
+
+==================================================
+
+
+
+
+
+
+
+==================================================
+
+
+
+URL               : https://signin.ea.com/p/web/resetPassword
+
+
+
+Web Browser       : Chrome
+
+
+
+User Name         : 
+
+
+
+Password          : Papapione67
+
+
+
+Password Strength : Strong
+
+
+
+User Name Field   : 
+
+
+
+Password Field    : 
+
+
+
+==================================================
+
+
+
+
+
+
+
+==================================================
+
+
+
+URL               : https://signin.techsmith.com/Home/SignUp
+
+
+
+Web Browser       : Chrome
+
+
+
+User Name         : pane2010@hotmail.it
+
+
+
+Password          : papapione67
+
+
+
+Password Strength : Strong
+
+
+
+User Name Field   : SignUp.Email
+
+
+
+Password Field    : SignUp.Password
+
+
+
+==================================================
+
+
+
+
+
+
+
+==================================================
+
+
+
+URL               : https://steamcommunity.com/
+
+
+
+Web Browser       : Internet Explorer 10.0
+
+
+
+User Name         : gyuse1
+
+
+
+Password          : papapione67
+
+
+
+Password Strength : Strong
+
+
+
+User Name Field   : 
+
+
+
+Password Field    : 
+
+
+
+==================================================
+
+
+
+
+
+
+
+==================================================
+
+
+
+URL               : https://www.centrodiopinione.it/it-IT/Signup/Intake
+
+
+
+Web Browser       : Chrome
+
+
+
+User Name         : 
+
+
+
+Password          : Papanero67
+
+
+
+Password Strength : Strong
+
+
+
+User Name Field   : 
+
+
+
+Password Field    : 
+
+
+
+==================================================
+
+
+
+
+
+
+
+==================================================
+
+
+
+URL               : https://www.facebook.com/
+
+
+
+Web Browser       : Chrome
+
+
+
+User Name         : seccidonatella@hotmail.it
+
+
+
+Password          : 11102014
+
+
+
+Password Strength : Weak
+
+
+
+User Name Field   : email
+
+
+
+Password Field    : pass
+
+
+
+==================================================
+
+
+
+
+
+
+
+==================================================
+
+
+
+URL               : https://www.facebook.com/
+
+
+
+Web Browser       : Chrome
+
+
+
+User Name         : gyuserrd@gmail.com
+
+
+
+Password          : demonio880.
+
+
+
+Password Strength : Strong
+
+
+
+User Name Field   : email
+
+
+
+Password Field    : pass
+
+
+
+==================================================
+
+
+
+
+
+
+
+==================================================
+
+
+
+URL               : https://www.jobyourlife.com/
+
+
+
+Web Browser       : Chrome
+
+
+
+User Name         : Pane2010@hotmail.it 
+
+
+
+Password          : papapione
+
+
+
+Password Strength : Medium
+
+
+
+User Name Field   : application-user-repeat_email
+
+
+
+Password Field    : application-user-password
+
+
+
+==================================================
+
+
+
+
+
+
+
+==================================================
+
+
+
+URL               : https://www.pinterest.com/join/
+
+
+
+Web Browser       : Chrome
+
+
+
+User Name         : pane2010@hotmail.it
+
+
+
+Password          : papapione
+
+
+
+Password Strength : Medium
+
+
+
+User Name Field   : email
+
+
+
+Password Field    : password
+
+
+
+==================================================
+
+
+
+
+
+
+
+==================================================
+
+
+
+URL               : https://www.worldoftrucks.com/
+
+
+
+Web Browser       : Internet Explorer 10.0
+
+
+
+User Name         : gyuse1
+
+
+
+Password          : papapione67
+
+
+
+Password Strength : Strong
+
+
+
+User Name Field   : 
+
+
+
+Password Field    : 
+
+
+
+==================================================
+
+
+
+==================================================
+
+
+
+URL               : https://accounts.google.com/ServiceLoginAuth
+
+
+
+Web Browser       : Chrome
+
+
+
+User Name         : mineblockvideo@gmail.com
+
+
+
+Password          : skejbort.
+
+
+
+Password Strength : Strong
+
+
+
+User Name Field   : Email
+
+
+
+Password Field    : Passwd
+
+
+
+==================================================
+
+
+
+
+
+==================================================
+
+
+
+URL               : http://freemail.hu
+
+
+
+Web Browser       : Firefox
+
+
+
+User Name         : aranyics.kmb
+
+
+
+Password          : aranyics
+
+
+
+Password Strength : Strong
+
+
+
+User Name Field   : userwithoutdomain
+
+
+
+Password Field    : pass
+
+
+
+==================================================
+
+
+
+
+
+
+
+==================================================
+
+
+
+URL               : http://freemail.hu/mail/login.fm
+
+
+
+Web Browser       : Chrome
+
+
+
+User Name         : aranyics.kmb
+
+
+
+Password          : aranyics
+
+
+
+Password Strength : Strong
+
+
+
+User Name Field   : userwithoutdomain
+
+
+
+Password Field    : pass
+
+
+
+==================================================
+
+
+
+
+
+
+
+==================================================
+
+
+
+URL               : http://freemail.hu/mail/login.fm
+
+
+
+Web Browser       : Chrome
+
+
+
+User Name         : aranyics97
+
+
+
+Password          : aranyics
+
+
+
+Password Strength : Strong
+
+
+
+User Name Field   : userwithoutdomain
+
+
+
+Password Field    : pass
+
+
+
+==================================================
+
+
+
+
+
+
+
+==================================================
+
+
+
+URL               : http://www.freemail.hu/mail/login.fm
+
+
+
+Web Browser       : Chrome
+
+
+
+User Name         : aranyics.kmb
+
+
+
+Password          : aranyics
+
+
+
+Password Strength : Strong
+
+
+
+User Name Field   : userwithoutdomain
+
+
+
+Password Field    : pass
+
+
+
+==================================================
+
+
+
+
+
+
+
+==================================================
+
+
+
+URL               : http://www.pannontej.hu/cammogo/regisztracio
+
+
+
+Web Browser       : Chrome
+
+
+
+User Name         : aranyics97@freemail.hu
+
+
+
+Password          : aranyics
+
+
+
+Password Strength : Strong
+
+
+
+User Name Field   : username
+
+
+
+Password Field    : userpass
+
+
+
+==================================================
+
+
+
+
+
+
+
+==================================================
+
+
+
+URL               : https://accounts.google.com/ServiceLogin
+
+
+
+Web Browser       : Chrome
+
+
+
+User Name         : dano.zoli5@gmail.com
+
+
+
+Password          : danozo1998
+
+
+
+Password Strength : Strong
+
+
+
+User Name Field   : Email
+
+
+
+Password Field    : Passwd
+
+
+
+==================================================
+
+
+
+
+
+
+
+==================================================
+
+
+
+URL               : https://diablotorrent.net/login.php
+
+
+
+Web Browser       : Chrome
+
+
+
+User Name         : ronaldo2000
+
+
+
+Password          : dancsi
+
+
+
+Password Strength : Medium
+
+
+
+User Name Field   : nev
+
+
+
+Password Field    : jelszo
+
+
+
+==================================================
+
+
+
+
+
+
+
+==================================================
+
+
+
+URL               : https://ncore.cc/login.php
+
+
+
+Web Browser       : Chrome
+
+
+
+User Name         : dydesz
+
+
+
+Password          : 0123qweasd!
+
+
+
+Password Strength : Strong
+
+
+
+User Name Field   : nev
+
+
+
+Password Field    : pass
+
+
+
+==================================================

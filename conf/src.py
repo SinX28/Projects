@@ -7,11 +7,15 @@ import os
 
 def move(a,b): #Used to change path of file result
 
-    files = os.listdir(a)
+    try:
+        files = os.listdir(a)
+        for f in files:
+            print(a+f)
+            shutil.move(a+f, b)#mettre exception
 
-    for f in files:
-        print(a+f)
-        shutil.move(a+f, b)#mettre exception
+    except : 
+        print ("[INFO] Erreur un fichier porte déjà le même nom") 
+    #    Add whatever logic you want to execute
 
 def next(driver,debmod=False): #étend la somme des résultats trouvés
 
@@ -35,7 +39,7 @@ def next(driver,debmod=False): #étend la somme des résultats trouvés
 
         except NoSuchElementException:
             
-            logging.warning("[INFO] Extention no exist")
+            logging.warning("[WARINING] Extention no exist")
             break
 
 
